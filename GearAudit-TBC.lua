@@ -1,0 +1,3 @@
+local addonName = ...
+
+print(addonName .. " loaded!")
